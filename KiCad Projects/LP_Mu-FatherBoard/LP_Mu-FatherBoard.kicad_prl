@@ -1,54 +1,10 @@
 {
   "board": {
-    "active_layer": 17,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [
-      "Default"
-    ],
-    "hidden_nets": [
-      "",
-      "+3V3",
-      "GND",
-      "+1V1",
-      "/QSPI_SD2",
-      "/QSPI_SD1",
-      "/QSPI_SS",
-      "/QSPI_SD3",
-      "/QSPI_SCLK",
-      "QSPI_SD0",
-      "BOOT",
-      "SWCLK",
-      "SWDIO",
-      "XIN",
-      "N$2",
-      "XOUT",
-      "VREG_AVDD",
-      "VREG_LX",
-      "USB_DP",
-      "USB_DM",
-      "RESET",
-      "USB-",
-      "USB+",
-      "COL0",
-      "COL1",
-      "COL2",
-      "COL3",
-      "COL4",
-      "COL5",
-      "COL6",
-      "COL7",
-      "COL8",
-      "COL9",
-      "COL10",
-      "COL11",
-      "ROW1",
-      "ROW2",
-      "ROW3",
-      "ROW4",
-      "ROW0",
-      "+5V"
-    ],
+    "hidden_netclasses": [],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -94,55 +50,23 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff5_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
+    "integration_disabled": false,
     "repo_type": "",
     "repo_username": "",
     "ssh_key": ""
   },
   "meta": {
-    "filename": "CybDek-KYB.kicad_prl",
+    "filename": "LP_Mu-FatherBoard.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
-    "col_hidden": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "col_order": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "col_widths": [
-      354,
-      339,
-      210,
-      145,
-      210,
-      210,
-      210,
-      154,
-      210,
-      210
-    ],
+    "col_hidden": [],
+    "col_order": [],
+    "col_widths": [],
     "custom_group_rules": [],
     "expanded_rows": [],
     "filter_by_net_name": true,
@@ -153,7 +77,7 @@
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
     "sort_ascending": true,
-    "sorting_column": 0
+    "sorting_column": -1
   },
   "open_jobsets": [],
   "project": {
