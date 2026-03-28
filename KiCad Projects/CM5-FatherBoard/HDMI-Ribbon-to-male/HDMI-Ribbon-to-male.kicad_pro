@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 0.9906,
+          "width": 0.3048
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "CM5-FatherBoard.kicad_pro",
+    "filename": "HDMI-Ribbon-to-male.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -611,7 +611,7 @@
   },
   "sheets": [
     [
-      "705fbd1a-b346-4748-9fdc-8b5289454e2c",
+      "f1b1d8fb-1932-4d4d-8965-9f5eb9872431",
       "Root"
     ]
   ],
