@@ -3361,7 +3361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Video:HDMI_A_Contact_Technology_19APL2_Horizontal"
+		(property "Footprint" "ProLib_pcs_2026-03-28:HDMI-SMD_HYC109-HDMIA19-160"
 			(at 246.38 76.2 0)
 			(effects
 				(font
@@ -3521,7 +3521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e837f0e-5fd6-4ee8-9442-2955a904a4d4")
-		(property "Reference" "e"
+		(property "Reference" "e1"
 			(at 189.23 74.9299 0)
 			(effects
 				(font
@@ -3631,7 +3631,7 @@
 		(instances
 			(project "HDMI-Ribbon-to-male"
 				(path "/f1b1d8fb-1932-4d4d-8965-9f5eb9872431"
-					(reference "e")
+					(reference "e1")
 					(unit 1)
 				)
 			)
