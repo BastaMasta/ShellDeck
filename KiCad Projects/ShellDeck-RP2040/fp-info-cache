@@ -1,4 +1,4 @@
-27348535925788529
+27350310369977487
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70650,6 +70650,13 @@ gateron-ks27-choc-v1-mx-soldered-and-hotswap
 0
 12
 2
+KicadLibs
+MODULE_CM5108032
+
+
+0
+204
+204
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
